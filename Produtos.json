@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nome": "Smartphone Ultra",
+    "descricao": "Celular potente e moderno.",
+    "imagem": "https://example.com/imagens/smartphone_ultra.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Fone de Ouvido Bluetooth",
+    "descricao": "Áudio imersivo, sem fio.",
+    "imagem": "https://example.com/imagens/fone_bluetooth.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Smart TV 50 Polegadas",
+    "descricao": "Entretenimento em 4K pra você.",
+    "imagem": "https://example.com/imagens/smart_tv.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Câmera Digital Profissional",
+    "descricao": "Capture momentos incríveis.",
+    "imagem": "https://example.com/imagens/camera_pro.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Notebook Gamer Core i7",
+    "descricao": "Desempenho máximo para jogos.",
+    "imagem": "https://example.com/imagens/notebook_gamer.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Teclado Mecânico RGB",
+    "descricao": "Conforto e estilo pra digitar.",
+    "imagem": "https://example.com/imagens/teclado_rgb.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Mouse Sem Fio Ergonômico",
+    "descricao": "Precisão e conforto no trabalho.",
+    "imagem": "https://example.com/imagens/mouse_semfio.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Caixa de Som Portátil",
+    "descricao": "Som de alta qualidade na rua.",
+    "imagem": "https://example.com/imagens/caixa_portatil.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Monitor Ultrawide 29''",
+    "descricao": "Ampla visão para produtividade.",
+    "imagem": "https://example.com/imagens/monitor_ultrawide.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Webcam Full HD",
+    "descricao": "Qualidade em suas videochamadas.",
+    "imagem": "https://example.com/imagens/webcam_hd.jpg"
+  }
+]
