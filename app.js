@@ -1,5 +1,6 @@
 const express = require("express"); // Importa o módulo Express
 const cors = require("cors"); // Importa o módulo CORS
+const rotaProdutos = require('./rotas/Produtos'); // Importa as rotas de gerenciamento de Produtos
 // Cria uma instância da aplicação Express
 const app = express();
 
@@ -8,6 +9,13 @@ app.use(express.json());
 
 // Permite que requisições de qualquer origem sejam aceitas, usando CORS
 app.use(cors({origin:"*"}));
+
+// --- Adicione esta linha para servir arquivos estáticos ---
+app.use(express.static('public'));
+
+// Define as rotas da aplicação
+app.use('/produtos', rotaProdutos); // Associa as rotas de gerenciamento de produtos"
+
 
 // Define a porta em que o servidor irá rodar
 const port = 8000;

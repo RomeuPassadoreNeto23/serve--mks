@@ -2,8 +2,8 @@
   {
     "id": 1,
     "nome": "Smartphone Ultra",
-    "descricao": "Celular potente e moderno.",
-    "imagem": "https://example.com/imagens/smartphone_ultra.jpg"
+    "descricao": "Celular potentepu e moderno.",
+    "imagem": "./public/imagens/Smartphone.png"
   },
   {
     "id": 2,
