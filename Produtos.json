@@ -3,60 +3,70 @@
     "id": 1,
     "nome": "Smartphone Ultra",
     "descricao": "Celular potentepu e moderno.",
-    "imagem": "./public/imagens/Smartphone.png"
+    "imagem": "http://localhost:8000/imagens/Smartphone.png",
+    "preco": "2.000"
   },
   {
     "id": 2,
     "nome": "Fone de Ouvido Bluetooth",
     "descricao": "Áudio imersivo, sem fio.",
-    "imagem": "https://example.com/imagens/fone_bluetooth.jpg"
+    "imagem": "http://localhost:8000/imagens/Fone.jpg",
+    "preco": "350"
   },
   {
     "id": 3,
     "nome": "Smart TV 50 Polegadas",
     "descricao": "Entretenimento em 4K pra você.",
-    "imagem": "https://example.com/imagens/smart_tv.jpg"
+    "imagem": "http://localhost:8000/imagens/Smart.jpg",
+    "preco": "2.500"
   },
   {
     "id": 4,
     "nome": "Câmera Digital Profissional",
     "descricao": "Capture momentos incríveis.",
-    "imagem": "https://example.com/imagens/camera_pro.jpg"
+    "imagem": "http://localhost:8000/imagens/Camera.png",
+    "preco": "1.000"
   },
   {
     "id": 5,
     "nome": "Notebook Gamer Core i7",
     "descricao": "Desempenho máximo para jogos.",
-    "imagem": "https://example.com/imagens/notebook_gamer.jpg"
+    "imagem": "http://localhost:8000/imagens/Notebook.jpg",
+    "preco": "4.000"
   },
   {
     "id": 6,
     "nome": "Teclado Mecânico RGB",
     "descricao": "Conforto e estilo pra digitar.",
-    "imagem": "https://example.com/imagens/teclado_rgb.jpg"
+    "imagem": "http://localhost:8000/imagens/Teclado.png",
+    "preco": "100"
   },
   {
     "id": 7,
     "nome": "Mouse Sem Fio Ergonômico",
     "descricao": "Precisão e conforto no trabalho.",
-    "imagem": "https://example.com/imagens/mouse_semfio.jpg"
+    "imagem": "http://localhost:8000/imagens/Mouse.png",
+    "preco": "250"
   },
   {
     "id": 8,
     "nome": "Caixa de Som Portátil",
     "descricao": "Som de alta qualidade na rua.",
-    "imagem": "https://example.com/imagens/caixa_portatil.jpg"
+    "imagem": "http://localhost:8000/imagens/Caixa.png",
+    "preco": "400"
   },
   {
     "id": 9,
     "nome": "Monitor Ultrawide 29''",
     "descricao": "Ampla visão para produtividade.",
-    "imagem": "https://example.com/imagens/monitor_ultrawide.jpg"
+    "imagem": "http://localhost:8000/imagens/Monitor.png",
+    "preco": "2.000"
   },
   {
     "id": 10,
     "nome": "Webcam Full HD",
     "descricao": "Qualidade em suas videochamadas.",
-    "imagem": "https://example.com/imagens/webcam_hd.jpg"
+    "imagem": "http://localhost:8000/imagens/Webcam.png",
+    "preco": "50"
   }
 ]
